@@ -11,8 +11,6 @@ plantio</panel_attributes><additional_attributes></additional_attributes></eleme
 =Nivelamneto do solo
 =Nivelamento da camada superficial 
 =controle das ervas daninha
-=Pulverizar herbicidas 
-=Usar platadeira ou semeadeiras
 </panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>130</x><y>500</y><w>220</w><h>130</h></coordinates><panel_attributes>Selecione uma das opções
 --
 =Semiextencivo
